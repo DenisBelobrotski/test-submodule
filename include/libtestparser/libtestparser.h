@@ -9,4 +9,6 @@ void sayHello();
 
 void sayDogName(std::string name);
 
+int getDogAge();
+
 #endif //APP_PROJECT_TEST_H

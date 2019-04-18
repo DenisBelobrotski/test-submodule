@@ -14,3 +14,8 @@ void sayDogName(std::string name)
 {
     std::cout << "Dog name: " << name << std::endl;
 }
+
+int getDogAge()
+{
+    return 4;
+}
