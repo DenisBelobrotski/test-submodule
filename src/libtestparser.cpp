@@ -9,3 +9,8 @@ void sayHello()
 {
     std::cout << "Hello from test.cpp!" << std::endl;
 }
+
+void sayDogName(std::string name)
+{
+    std::cout << "Dog name: " << name << std::endl;
+}

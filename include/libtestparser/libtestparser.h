@@ -7,4 +7,6 @@
 
 void sayHello();
 
+void sayDogName(std::string name);
+
 #endif //APP_PROJECT_TEST_H
